@@ -1,0 +1,91 @@
+table {
+    border-spacing: 0;
+}
+td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+}
+#cell-4,
+#cell-8,
+#cell-12,
+#cell-16,
+#cell-20,
+#cell-24{
+    border-right: 5px solid black   ;
+}
+#cell-1,
+#cell-2,
+#cell-3,
+#cell-4
+{
+    border-top: 5px solid black;
+}
+#cell-21,
+#cell-22,
+#cell-23,
+#cell-24{
+    border-bottom: 5px solid black;
+}
+#cell-1,
+#cell-5,
+#cell-9,
+#cell-13,
+#cell-17,
+#cell-21{
+    border-left: 5px solid black;
+}
+#cell-5,
+#cell-6,
+#cell-7,
+#cell-8{
+    border-bottom: 5px solid black;
+}
+#cell-13,
+#cell-14,
+#cell-15,
+#cell-16{
+    border-bottom: 5px solid black;
+}
+
+#cell-2,
+#cell-6,
+#cell-10,
+#cell-14,
+#cell-18,
+#cell-22{
+    border-right: 5px solid black;
+}
+#imagen{
+    width: 70px;
+    height: auto;
+}
+
+#cell-1,
+#cell-2,
+#cell-5,
+#cell-6{
+    background-color: aquamarine;
+}
+
+#cell-3,
+#cell-4,
+#cell-7,
+#cell-8{
+    background-color: blanchedalmond;
+}
+
+#cell-9,
+#cell-10,
+#cell-13,
+#cell-14 {
+    background-color: chocolate;
+}
+
+#cell-11,
+#cell-12,
+#cell-15,
+#cell-16{
+    background-color: chartreuse;
+}
