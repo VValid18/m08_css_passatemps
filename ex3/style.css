@@ -1,0 +1,19 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+td.bordered {
+    border: 2px solid rgb(192, 133, 133);
+}
